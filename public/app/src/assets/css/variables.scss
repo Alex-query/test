@@ -1,0 +1,35 @@
+/* ======================================== >>>>> */
+/* = Media queries = */
+/* ======================================== >>>>> */
+
+$screen-ss-min: 480px;
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+$screen-xl-min: 1600px;
+$screen-xs-max: $screen-sm-min - 1px;
+$screen-sm-max: $screen-md-min - 1px;
+$screen-md-max: $screen-lg-min - 1px;
+$screen-lg-max: $screen-xl-min - 1px;
+
+/* ======================================== >>>>> */
+/* = Values = */
+/* ======================================== >>>>> */
+
+$value-default-radius: 3px;
+$value-nice-radius: 100px;
+$value-top-header-height: 60px;
+$value-sidebar-padding: 15px;
+$value-default-button-height: 34px;
+
+/* ======================================== >>>>> */
+/* = Colors = */
+/* ======================================== >>>>> */
+
+//$color-primary: #EE6231;
+$color-primary: #3bd321;
+$color-grey: #747474;
+$color-red: #D50000;
+$color-blue: #2196F2;
+$color-dark: #111111;
+$color-body: #333333;

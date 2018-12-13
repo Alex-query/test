@@ -1,0 +1,10 @@
+[][]
+{"srcNumber":"701","destNumber":"+79118334747","uid":"admin@pablov2010"}
+{"callid":"bd890944-c8e5-4093-ba1d-5ec149a5d7cb","cmd":"event","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","phone":"74952302796","type":"CANCELLED","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"bd890944-c8e5-4093-ba1d-5ec149a5d7cb","cmd":"history","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","duration":"0","ext":"701","phone":"79216327671","start":"20181213T090427Z","status":"call A error","type":"out","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"69d03905-32f7-4732-a5da-0c822f3e5859","cmd":"event","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","phone":"79216327671","type":"OUTGOING","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"69d03905-32f7-4732-a5da-0c822f3e5859","cmd":"event","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","phone":"79216327671","type":"ACCEPTED","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"69d03905-32f7-4732-a5da-0c822f3e5859","cmd":"event","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","phone":"79216327671","type":"COMPLETED","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"69d03905-32f7-4732-a5da-0c822f3e5859","cmd":"history","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","duration":"33","ext":"701","link":"https:\/\/records.gravitel.ru\/record\/vats14064.gravitel.ru\/2018-12-13\/69d03905-32f7-4732-a5da-0c822f3e5859\/admin_out_2018_12_13%2D12_16_46_79216327671_krho.mp3","phone":"79216327671","start":"20181213T091656Z","status":"Success","type":"out","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"b0b7e009-e76c-4499-86ba-30929538c315","cmd":"event","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","phone":"74952302796","type":"CANCELLED","user":"admin@vats14064.gravitel.ru","z-flag":"0"}
+{"callid":"b0b7e009-e76c-4499-86ba-30929538c315","cmd":"history","crm_token":"0dc8deffa53ebbaa41cf898c088e0a54e1cbf91d","duration":"0","ext":"701","phone":"79216327671","start":"20181213T100824Z","status":"call A error","type":"out","user":"admin@vats14064.gravitel.ru","z-flag":"0"}

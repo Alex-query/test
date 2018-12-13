@@ -1,0 +1,22 @@
+{
+   "Processing": "Wait ...",
+"Search": "Search",
+"LengthMenu": "Show _MENU_ orders",
+"Info": "Records from _START_ to _END_ of orders _TOTAL_",
+"InfoEmpty": " from 0 to 0 of 0 Order ",
+"InfoFiltered": "(filtered out orders _MAX_)",
+"InfoPostFix": "",
+"LoadingRecords": "Loading records ...",
+"ZeroRecords": "There are no records.",
+"EmptyTable": "The table is no data",
+"Paginate": {
+  "First": "First",
+  "Previous": "« ",
+  "Next": "» ",
+  "Last": "Last"
+},
+ "Aria": {
+ "SortAscending": ": activate for ascending column",
+ "SortDescending": ": activate for descending sort of the column"
+ }
+}

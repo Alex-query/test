@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/apidocumentation",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ApiDocumentation\\Providers\\ApiDocumentationServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ApiDocumentation\\": ""
+        }
+    }
+}

@@ -1,0 +1,14 @@
+.dataTables_info{
+    float:right;
+}
+
+.odd{
+    background-color: #ffffff;
+}
+.even{
+    background-color: #e9ebed;
+}
+
+.small_avatar{
+max-width: 55px;
+}
